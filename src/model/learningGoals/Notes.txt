@@ -1,0 +1,19 @@
+
+    RECALL(1),REPRODUCE(2),SKILLS(3),THINKINGSHORTTERM(4),THINKINGLONGTERM(5);
+
+    Recall
+        Knowledge
+
+    Reproduce
+        Comprehension
+
+    Skills
+        Application
+
+    Thinking Short Term
+          Analysis
+
+
+    Thinking Long Term
+        Synthesis
+        Evaluation
